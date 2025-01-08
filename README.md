@@ -2,7 +2,7 @@
 👀 I’m interested in software development, AI/ML, and cloud technologies.
 🌱 I’m currently learning Docker, TypeScript, and advanced React Native techniques.
 💞️ I’m looking to collaborate on open-source projects and innovative AI-driven tools.
-📫 How to reach me: [your email or LinkedIn URL].
+📫 How to reach me: [https://www.linkedin.com/in/muhammad-arsalan-ad811367/].
 😄 Pronouns: He/Him.
 ⚡ Fun fact: I once built an app in a day just to prove I could!
 <!---
